@@ -1,2 +1,1 @@
-# python-assignment
-Python Assignments by Python Data Science Course
+# python-assignments
